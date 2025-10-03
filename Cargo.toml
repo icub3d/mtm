@@ -2,6 +2,12 @@
 name = "mtm"
 version = "0.1.0"
 edition = "2024"
+description = "Keep your screen awake by nudging the mouse at random intervals"
+license = "MIT"
+repository = "https://github.com/icub3d/mtm"
+readme = "README.md"
+keywords = ["mouse", "automation", "screen", "idle", "cli"]
+categories = ["command-line-utilities"]
 
 [dependencies]
 clap = { version = "4.5", features = ["derive"] }
