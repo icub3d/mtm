@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> This repository has been migrated to [git.marsh.gg/icub3d/mtm](https://git.marsh.gg/icub3d/mtm). Please use the new URL for any future issues, pull requests, or clones.
+
 # mtm
 
 Keep your screen awake by occasionally nudging the mouse pointer. The program waits a random amount of time between a lower and upper bound, then wiggles the cursor by a few pixels so the system stays active.
